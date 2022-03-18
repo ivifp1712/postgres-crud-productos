@@ -1,4 +1,4 @@
-# postgres-crud-productos
+# Postgres Crud para Productos
 
 Postgres SQL con PDO para la conexion a la base de datos desde PHP. 
 
